@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9219
     wikipedia: http://en.wikipedia.org/wiki/George_Jean_Nathan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27660#A-Book-Without-A-Title
 gutenberg_issued: '2008-12-30'
 gutenberg_type: Text
 identifiers:
